@@ -78,7 +78,16 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ~~~
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+### Optimal Policy:
+
+![311113410-f6d957d8-eb5f-4710-b7a5-35ccc42e9cee](https://github.com/charansai0/policy-iteration-algorithm/assets/94296221/6cb45688-0485-4de6-8170-b1489f5a91b7)
+
+### Optimal Value Function:
+![311113518-7668df29-cce2-4c16-9c49-bd70fadf852b](https://github.com/charansai0/policy-iteration-algorithm/assets/94296221/687a510f-50a6-4718-8040-1d2a94d59fac)
+
+
+### Success Rate for Optimal Policy:
+![Screenshot (33)](https://github.com/charansai0/policy-iteration-algorithm/assets/94296221/18fe8cbc-c669-4209-b16c-042e72e06034)
 
 ## RESULT:
 
